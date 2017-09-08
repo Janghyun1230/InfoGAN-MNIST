@@ -26,12 +26,14 @@ implementation of InfoGAN with mnist [infogan paper](https://arxiv.org/abs/1606.
 >- else (save directory, device type)
 
 # output (also in jupyter notebook file)
-category number = 10
-![Alt Text](cat10.JPG)
+### category number = 10
 
-category number = 5
-![Alt Text](cat5_1.JPG)
-![Alt Text](cat5_2.JPG)
-![Alt Text](cat5_3.JPG)
-![Alt Text](cat5_4.JPG)
-![Alt Text](cat5_5.JPG)
+![Alt Text](images/cat10.JPG)
+
+### category number = 5
+
+![Alt Text](images/cat5_1.JPG)
+![Alt Text](images/cat5_2.JPG)
+![Alt Text](images/cat5_3.JPG)
+![Alt Text](images/cat5_4.JPG)
+![Alt Text](images/cat5_5.JPG)
