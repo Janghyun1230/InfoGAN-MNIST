@@ -1,5 +1,5 @@
 # InfoGAN-mnist
-implementation of InfoGAN with mnist [infogan paper](https://arxiv.org/abs/1606.03657)
+Tensorflow implementation of InfoGAN with mnist [infogan paper](https://arxiv.org/abs/1606.03657)
 
 ### network.py
 >activation functions and network function which can draw tensorflow layers by input dictionary.  now, it can draw fullyconnected, conv2D, transpose conv2D with reshape, batch nomalization.
